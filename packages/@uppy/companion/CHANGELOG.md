@@ -1,5 +1,9 @@
 # @uppy/companion
 
+## ??
+
+- @uppy/companion: added ARM container build
+
 ## 3.6.0
 
 Released: 2022-05-30
